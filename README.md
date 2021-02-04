@@ -1,5 +1,5 @@
 # MLP-for-regression-model
-This is a project directed to develop an Artificial Neural Network or Multi-Layer Perceptron for a regression model, able to predict the miles per gallon indicator of an auto, using Pytorch.
+This is a project directed to develop an Artificial Neural Network or Multi-Layer Perceptron for a regression model, able to predict the miles per gallon performance of an auto, using Pytorch. The main objective of this project is to train a regression artificial neural network that, while predicting the mileage per gallon based on certain features of a car, achieves the lowest loss or cost: root square mean error.
 
 This repository contains one ipynb file and one csv file.
 
